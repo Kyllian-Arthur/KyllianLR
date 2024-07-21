@@ -13,9 +13,21 @@
 </p>
 
 [![KYLLIANLR BOT](https://img.shields.io/badge/KyllianLR%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285179771076) 
-[![OWNER](https://img.shields.io/badge/Creator%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285179771076) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/Official%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ktj636ieh952VD4DNPQ04B) 
+[![OWNER](https://img.shields.io/badge/Customer%20Support-4b596e?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyllianarthur)
 ---------
+
+<details>
+<summary>BENEFIT & PRICE</summary>
+
+| List | True/False |
+|--------|--------|
+| **Free Update 4 Months** |[True](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Free Fixed 1 Years** |[True](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Free Service Support** |[True](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Free Request Feature** |[True](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Price Source Code** |[IDR 70.000](https://t.me/kyllianarthur) |
+
+</details>
 
 <details>
 <summary>FEATURE LIST</summary>
@@ -68,6 +80,8 @@
 | **Fast Respon** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
 | **Type Plugins** |[N](https://github.com/Kyllian-Arthur/KyllianLR) |
 | **Type Case** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **96% Scrape** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **98% No Enc** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
 | **Lock IPs** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
 
 </details>
@@ -89,17 +103,5 @@
  node . --pairing-code
  node . --mobile
 ```
-
-</details>
-
-<details>
-<summary>BENEFIT & PRICE</summary>
-
-| List | Y/N |
-|--------|--------|
-| **Fast Respon** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
-| **Type Plugins** |[N](https://github.com/Kyllian-Arthur/KyllianLR) |
-| **Type Case** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
-| **Lock IPs** |[Y](https://github.com/Kyllian-Arthur/KyllianLR) |
 
 </details>
