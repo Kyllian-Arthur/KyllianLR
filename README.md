@@ -1,11 +1,14 @@
-<h1 align="center">KyllianLR</h1>
-
+</p>
 <p align="center">
-  <a href="https://github.com/Kyllian-Arthur/KyllianLR"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=A+Beginner+Programmer;Base+Original+By+Xeon;Recode+By+Kyllian+Arthur;Please+Give+Stars+In+This+Repository:)" alt="UwU"></a>
+<a href="https://telegra.ph/file/c933a161d0dade08880c1.jpg"><img title="KyllianLR" src="https://telegra.ph/file/ac724e6353806957cd1d6.jpg"></a>
+  
+<p align="center">
+  <a href="https://github.com/Kyllian-Arthur/KyllianLR"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=A+Beginner+Programmer;Base+Original+By+Xeon;Recode+By+Kyllian+Arthur;Give+Stars+In+This+Repository:)" alt="UwU"></a>
 </p>
 
 <p align="center">
-  <a href="#"><img title="KyllianLR" src="https://img.shields.io/badge/KyllianLR-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BETA" src="https://img.shields.io/badge/BETA-YES-blue.svg"></a>
+<a href="#"><img title="FOR SALE" src="https://img.shields.io/badge/FORSALE-YES-blue.svg"></a>   
 </p>
 
 <p align="center">
