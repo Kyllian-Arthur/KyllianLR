@@ -1,30 +1,15 @@
-<p align="center">
-  <img src="https://wsrv.nl/?url=https://github.com/AyGemuy.png?size=500&w=300&h=300&fit=cover&mask=circle" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-
-<h1 align="center">Taylor</h1>
+<h1 align="center">KyllianLR</h1>
 
 <p align="center">
-  <a href="https://github.com/AyGemuy/Taylor-V2"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Readme+Hanyalah+Marketing;Base+ori+by+BochilGaming;Recode+By+Wudysoft;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU"></a>
+  <a href="https://github.com/Kyllian-Arthur/KyllianLR"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=A+Beginner+Programmer;Base+Original+By+Xeon;Recode+By+Kyllian+Arthur;Please+Give+Stars+In+This+Repository:)" alt="UwU"></a>
 </p>
 
 <p align="center">
-  <a href="#"><img title="Taylor" src="https://img.shields.io/badge/Taylor-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <a href="#"><img title="KyllianLR" src="https://img.shields.io/badge/KyllianLR-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Wudysoft-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AyGemuy/Taylor-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AyGemuy/Taylor-V2?label=Forks&color=blue&style=flat-square"></a>
-  <a href="https://github.com/AyGemuy/Taylor-V2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AyGemuy/Taylor-V2?label=Watchers&color=green&style=flat-square"></a>
-  <a href="https://github.com/AyGemuy/Taylor-V2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AyGemuy/Taylor-V2?label=Stars&color=yellow&style=flat-square"></a>
-  <a href="https://github.com/AyGemuy/Taylor-V2/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/AyGemuy/Taylor-V2?label=Contributors&color=blue&style=flat-square"></a>
-  <a href="https://github.com/AyGemuy/Taylor-V2/issues"><img title="Issues" src="https://img.shields.io/github/issues/AyGemuy/Taylor-V2?label=Issues&color=success&style=flat-square"></a>
-  <a href="https://github.com/AyGemuy/Taylor-V2/issues?q=is%3Aissue+is%3Aclosed"><img title="Closed Issues" src="https://img.shields.io/github/issues-closed/AyGemuy/Taylor-V2?label=Issues&color=red&style=flat-square"></a>
-  <a href="https://github.com/AyGemuy/Taylor-V2/pulls"><img title="Pull Requests" src="https://img.shields.io/github/issues-pr/AyGemuy/Taylor-V2?label=PullRequest&color=success&style=flat-square"></a>
-  <a href="https://github.com/AyGemuy/Taylor-V2/pulls?q=is%3Apr+is%3Aclosed"><img title="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AyGemuy/Taylor-V2?label=PullRequest&color=red&style=flat-square"></a>
+  <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kyllian Arthur-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 # `Whatsapp` <a href="https://wa.me/6282195322106">
@@ -38,10 +23,10 @@
 
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **No Internet** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Simple** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Multi Device** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
+| **Fast Respon** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **No Internet** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Simple** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Multi Device** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
 
 </details>
 
@@ -50,27 +35,27 @@
 
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Internet** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Game Rpg** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Nsfw** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Sticker** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Game** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Kerang Ajaib** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Quotes** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Anime** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Premium** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Tools** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **Exec** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
-| **React** |[✔️](https://github.com/AyGemuy/Taylor-V2) |
+| **Downloader** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Internet** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Game Rpg** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Nsfw** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Sticker** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Game** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Kerang Ajaib** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Quotes** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Anime** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Premium** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Tools** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **Exec** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
+| **React** |[✔️](https://github.com/Kyllian-Arthur/KyllianLR) |
 
 </details>
 <details>
 <summary>SETTING</summary>
 
-- Owner Number [![Here](https://img.shields.io/badge/Link-Here-blue)](https://github.com/AyGemuy/Taylor-V2/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L13C17-L13C17)
-- Owner Name [![Here](https://img.shields.io/badge/Link-Here-blue)](https://github.com/AyGemuy/Taylor-V2/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L60)
-- Bot Name [![Here](https://img.shields.io/badge/Link-Here-blue)](https://github.com/AyGemuy/Taylor-V2/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L59)
+- Owner Number [![Here](https://img.shields.io/badge/Link-Here-blue)](https://github.com/Kyllian-Arthur/KyllianLR/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L13C17-L13C17)
+- Owner Name [![Here](https://img.shields.io/badge/Link-Here-blue)](https://github.com/Kyllian-Arthur/KyllianLR/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L60)
+- Bot Name [![Here](https://img.shields.io/badge/Link-Here-blue)](https://github.com/Kyllian-Arthur/KyllianLR/blob/2b7ce09d6dc73134d34d0ccf970d0efc95901c97/config.js#L59)
 
 </details>
 
@@ -118,7 +103,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/AyGemuy/Taylor-V2/
+$ git clone https://github.com/Kyllian-Arthur/KyllianLR/
 $ cd Taylor-master
 $ npm i
 ```
@@ -183,7 +168,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/AyGemuy/Taylor-V2/
+git clone https://github.com/Kyllian-Arthur/KyllianLR/
 cd Taylor-master
 npm install
 npm update
@@ -200,7 +185,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AyGemuy/Taylor-V2/
+git clone https://github.com/Kyllian-Arthur/KyllianLR/
 cd Taylor-master
 npm install
 npm update
@@ -302,11 +287,11 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 <details>
 <summary>13. Thanks to ✨</summary>
 
-* [`Allah SWT`](https://github.com/AyGemuy/Taylor-V2)
-* [`My parents`](https://github.com/AyGemuy/Taylor-V2)
-* [`All Friends`](https://github.com/AyGemuy/Taylor-V2)
-* [`All Contributors`](https://github.com/AyGemuy/Taylor-V2)
-* [`All Creator Bot`](https://github.com/AyGemuy/Taylor-V2)
+* [`Allah SWT`](https://github.com/Kyllian-Arthur/KyllianLR)
+* [`My parents`](https://github.com/Kyllian-Arthur/KyllianLR)
+* [`All Friends`](https://github.com/Kyllian-Arthur/KyllianLR)
+* [`All Contributors`](https://github.com/Kyllian-Arthur/KyllianLR)
+* [`All Creator Bot`](https://github.com/Kyllian-Arthur/KyllianLR)
 
 </details>
 
