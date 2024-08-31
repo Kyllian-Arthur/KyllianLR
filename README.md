@@ -20,6 +20,21 @@
 ---------
 
 <details>
+<summary>CHANGELOG UPDATE</summary>
+
+| Time | Features Updated |
+|--------|--------|
+|[16 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Remove Background** |
+|[16 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Quotly Chat Stickers** |
+|[True](https://github.com/Kyllian-Arthur/KyllianLR)  |**Free Update 4 Months** |
+|[True](https://github.com/Kyllian-Arthur/KyllianLR)  |**Free Update 4 Months** |
+|[True](https://github.com/Kyllian-Arthur/KyllianLR)  |**Free Update 4 Months** |
+
+</details>
+
+---------
+
+<details>
 <summary>BENEFIT & PRICE</summary>
 
 | List | True/False |
