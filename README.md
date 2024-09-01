@@ -24,11 +24,37 @@
 
 | Time | Features Updated |
 |--------|--------|
-|[16 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Remove Background** |
-|[17 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Quotly Chat Stickers** |
-|[17 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Chess Games** |
-|[18 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Bing Image** |
-|[18 July 2024] |**Text 2 Image** |
+|16 July 2024 |**Remove Background** |
+|17 July 2024 |**Quotly Chat Stickers** |
+|17 July 2024 |**Chess Games** |
+|18 July 2024 |**Bing Image** |
+|18 July 2024 |**Text 2 Image** |
+|18 July 2024 |**Diffusion Anime** |
+|18 July 2024 |**Realistic Image** |
+|18 July 2024 |**Leave All Group** |
+|19 July 2024 |**Gemini Ai** |
+|21 July 2024 |**Family100 Games** |
+|22 July 2024 |**Gemini Image** |
+|22 July 2024 |**Jarak Tempuh** |
+|22 July 2024 |**Maker Menu** |
+|23 July 2024 |**Store Menu** |
+|23 July 2024 |**Tebakan Games** |
+|24 July 2024 |**Free Fire Stalker** |
+|24 July 2024 |**Chat Gpt 4o** |
+|24 July 2024 |**Anime Latest** |
+|24 July 2024 |**Anime On-Going** |
+|24 July 2024 |**Samehadaku Download** |
+|24 July 2024 |**Film Trending** |
+|24 July 2024 |**Omniplex Ai** |
+|24 July 2024 |**Perplexity Ai** |
+|24 July 2024 |**Nik & No Hp Stalker** |
+|24 July 2024 |**Picsum Image** |
+|18 July 2024 |**Robo Image** |
+|18 July 2024 |**Catsay Image** |
+|18 July 2024 |**Text 2 Image** |
+
+
+
 
 </details>
 
