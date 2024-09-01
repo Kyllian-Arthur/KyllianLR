@@ -25,10 +25,10 @@
 | Time | Features Updated |
 |--------|--------|
 |[16 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Remove Background** |
-|[16 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Quotly Chat Stickers** |
-|[True](https://github.com/Kyllian-Arthur/KyllianLR)  |**Free Update 4 Months** |
-|[True](https://github.com/Kyllian-Arthur/KyllianLR)  |**Free Update 4 Months** |
-|[True](https://github.com/Kyllian-Arthur/KyllianLR)  |**Free Update 4 Months** |
+|[17 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Quotly Chat Stickers** |
+|[17 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Chess Games** |
+|[18 July 2024](https://github.com/Kyllian-Arthur/KyllianLR)  |**Bing Image** |
+|[18 July](https://github.com/Kyllian-Arthur/KyllianLR)  |**Text 2 Image** |
 
 </details>
 
